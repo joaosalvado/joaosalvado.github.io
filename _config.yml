@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "João Salvado"
-  avatar           : "profile.png"
-  bio              : "PhD Student in Computer Science"
+  avatar           : "Photo_CV.png"
+  bio              : "PhD Student in Computer Science interested in Multi-robot Trajectory Optimization"
   location         : "Örebro Universitet, Sweden"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://scholar.google.com/citations?user=yP54U68AAAAJ&hl=en&oi=ao"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    :  "http://scholar.google.com/citations?user=yP54U68AAAAJ&hl=en&oi=ao"
+  email            :  "joao.salvado@protonmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Joao-Salvado"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"joaosalvado"
+  github           :  "joaosalvado"
   google_plus      :
   keybase          :
   instagram        :
