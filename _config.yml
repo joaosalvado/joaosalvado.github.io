@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "João Salvado"
   avatar           : "Photo_CV.png"
-  bio              : "PhD Student in Computer Science interested in Multi-robot Trajectory Optimization"
+  bio              : "PhD Student in Computer Science"
   location         : "Örebro Universitet, Sweden"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
