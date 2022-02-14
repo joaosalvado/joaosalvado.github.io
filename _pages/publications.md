@@ -5,24 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
-
-
-* [Contingency Planning for Automated Vehicles]( https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7759442 "Download pdf").               
+* [Contingency Planning for Automated Vehicles]( https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7759442 "Download pdf")             
     **João Salvado**, Luís M. M. Custódio, Daniel Hess      
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2016.     
-    A [pdf versinm](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18379 "Download pdf")     
-      [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI19a');">bibtex</a>]
+    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2016.      
+      [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-salvado2016contingency');">bibtex</a>]
 <div id="bibtex-salvado2016contingency" style="display:none">
 <pre>@inproceedings{salvado2016contingency,
   title={Contingency planning for automated vehicles},
@@ -32,8 +18,40 @@ author_profile: true
   year={2016},
   organization={IEEE}
 }
-</pre></div>
+</pre>
+</div>
 
+* [Motion planning and goal assignment for robot fleets using trajectory optimization]( https://ieeexplore.ieee.org/abstract/document/8594118 "Download pdf").               
+    **João Salvado**, Robert Krug, Masoumeh Mansouri, Federico Pecora      
+    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2018.     
+      [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-salvado2018motion');">bibtex</a>]
+<div id="bibtex-salvado2018motion" style="display:none">
+<pre>@inproceedings{salvado2018motion,
+  title={Motion planning and goal assignment for robot fleets using trajectory optimization},
+  author={Salvado, Joao and Krug, Robert and Mansouri, Masoumeh and Pecora, Fedorico},
+  booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={7939--7946},
+  year={2018},
+  organization={IEEE}
+}
+</pre>
+</div>
+
+* [Combining multi-robot motion planning and goal allocation using roadmaps]( https://ieeexplore.ieee.org/abstract/document/9560861 "Download pdf").               
+    **João Salvado**, Masoumeh Mansouri, Federico Pecora      
+    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2018.     
+      [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-salvado2021combining');">bibtex</a>]
+<div id="bibtex-salvado2021combining" style="display:none">
+<pre>@inproceedings{salvado2021combining,
+  title={Combining multi-robot motion planning and goal allocation using roadmaps},
+  author={Salvado, Jo{\~a}o and Mansouri, Masoumeh and Pecora, Federico},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={10016--10022},
+  year={2021},
+  organization={IEEE}
+}
+</pre>
+</div>
 
 <!--  * [Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding](https://aaai.org/ojs/index.php/AAAI/article/view/4565 "Download pdf").               
     **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.    

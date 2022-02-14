@@ -15,7 +15,7 @@ This paper is about the number 1. The number 2 is left for future work.
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
  -->
 
-* [Contingency Planning for Automated Vehicles]( https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7759442 "Download pdf").               
+[Contingency Planning for Automated Vehicles]( https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7759442 "Download pdf").               
     **João Salvado**, Luís M. M. Custódio, Daniel Hess      
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2016.     
      [download pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7759442/publications/ "Download pdf")     
