@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Aerospace Engineering, Instituto Superior Técnico (IST), 2013
-* M.S. in Aerospace Engineering (Avionics), Instituto Superior Técnico (IST), 2015
-* Automation and Control (Erasmus), Aalborg University, semester 2014
+* M.S. in Aerospace Engineering, Instituto Superior Técnico (IST), 2015 [17/20]
+* Automation and Control (Erasmus), Aalborg University, semester 2014 [10/12]
 * Ph.D in Computer Science, Örebro Universitet, 2022 (expected)
 
 <!-- Work experience

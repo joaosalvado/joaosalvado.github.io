@@ -39,7 +39,7 @@ author_profile: true
 
 * [Combining multi-robot motion planning and goal allocation using roadmaps]( https://ieeexplore.ieee.org/abstract/document/9560861 "Download pdf").               
     **João Salvado**, Masoumeh Mansouri, Federico Pecora      
-    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2018.     
+    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2021.     
       [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-salvado2021combining');">bibtex</a>]
 <div id="bibtex-salvado2021combining" style="display:none">
 <pre>@inproceedings{salvado2021combining,
@@ -52,6 +52,24 @@ author_profile: true
 }
 </pre>
 </div>
+
+* [A network-fow reduction for the multi-robot goal allocation and motion planning]( https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9551640 "Download pdf").               
+    **João Salvado**, Masoumeh Mansouri, Federico Pecora      
+    <i>IEEE 17th International Conference on Automation Science and Engineering (CASE)</i>, 2021.     
+      [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-salvado2021combining');">bibtex</a>]
+<div id="bibtex-salvado2021combining" style="display:none">
+<pre>@inproceedings{salvado2021network,
+  title={A network-flow reduction for the multi-robot goal allocation and motion planning problem},
+  author={Salvado, Jo{\~a}o and Mansouri, Masoumeh and Pecora, Federico},
+  booktitle={2021 IEEE 17th International Conference on Automation Science and Engineering (CASE)},
+  pages={2194--2201},
+  year={2021},
+  organization={IEEE}
+}
+</pre>
+</div>
+
+
 
 <!--  * [Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding](https://aaai.org/ojs/index.php/AAAI/article/view/4565 "Download pdf").               
     **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.    
