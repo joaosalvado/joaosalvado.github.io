@@ -56,7 +56,7 @@ author_profile: true
 * [A network-fow reduction for the multi-robot goal allocation and motion planning]( https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9551640 "Download pdf").               
     **João Salvado**, Masoumeh Mansouri, Federico Pecora      
     <i>IEEE 17th International Conference on Automation Science and Engineering (CASE)</i>, 2021.     
-      [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-salvado2021combining');">bibtex</a>]
+      [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-salvado2021network');">bibtex</a>]
 <div id="bibtex-salvado2021network" style="display:none">
 <pre>@inproceedings{salvado2021network,
   title={A network-flow reduction for the multi-robot goal allocation and motion planning problem},
