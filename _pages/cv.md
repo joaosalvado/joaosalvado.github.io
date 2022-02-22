@@ -15,6 +15,12 @@ Education
 * Automation and Control (Erasmus), Aalborg University, semester 2014 [10/12]
 * Ph.D in Computer Science, Örebro Universitet, 2022 (expected)
 
+Other
+======
+* Research Assistant, Deutsches Zentrum fur Luft-und Raumfahrt (DLR), Germany, 2015
+* Data Migration Consultant, Vodafone Novabase, Portugal Turkey, 2016
+
+
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant
