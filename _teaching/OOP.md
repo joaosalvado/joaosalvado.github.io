@@ -23,3 +23,9 @@ With the programming language C ++ in focus, the following steps are dealt with
 * Documentation and UML,
 * Object-oriented analysis, design, implementation and evaluation, and
 * Written and oral presentation of program code.
+
+Course Literature
+======
+Stroustrup, Bjarne. The C++ programming language. Pearson Education, 2013.
+Meyers, Scott. Effective modern C++: 42 specific ways to improve your use of C++ 11 and C++ 14. " O'Reilly Media, Inc.", 2014.
+
