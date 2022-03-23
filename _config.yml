@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "João Salvado / Personal Page [IN CONSTRUCTION]"
+title                    : "João Salvado / Personal Page"
 title_separator          : "-"
 name                     : &name "João Salvado"
 description              : &description "PhD Student at Örebro Universitet"
