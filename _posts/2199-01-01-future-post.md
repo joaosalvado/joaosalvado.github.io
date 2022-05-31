@@ -1,11 +1,11 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Docker container of CMake project with dependency on OpenCV'
+date: 2022-05-31
+permalink: /posts/2022/05/docker-cmake-opencv/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - CMake
+  - Docker
+  - OpenCV
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+This post is in progress
