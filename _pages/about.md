@@ -7,25 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<<<<<<< HEAD
-# Distributed Multi-robot Trajectory Optimization (DiMOpt)
-=======
 # Distributed Multi-robot Trajectory Optimization [DiMOpt Algorithm] 
->>>>>>> d41c3f66385d49b207684ee30c24a7b6b4040499
 <img src="/images/onedown.gif" title="mapf demo" style="float:right;width:200pt;padding-left:10px;" />
  <img src="/images/circle.gif" style="float:right;width:200pt;padding-left:10px;" />    
  <img src="/images/takeover.gif" style="float:right;width:200pt;padding-left:10px;" />  
   <img src="/images/squaresided.gif" style="float:right;width:200pt;padding-left:10px;" /> 
-<<<<<<< HEAD
-
-Trajectory optimization approaches can optimally solve the problem of computing trajectories for multiple robots navigating in a shared space. However, such methods are hampered by *complex robot dynamics* and
-collision constraints that *couple robot’s decision variables*. We propose a distributed multi-robot optimization algorithm (DiMOpt) which addresses these issues by exploiting:
-
-1.  **Consensus optimization** strategies to tackle coupling collision constraints.
-2.  **Single-robot sequential convex programming** (SCP) method for efficiently handling non-convexities introduced by dynamics.
-\
-The source code is openly available at [repo](https://github.com/joaosalvado/DiMOpt)
-=======
 
 Trajectory optimization approaches can optimally solve the problem of computing trajectories for multiple robots navigating in a shared space. However, such methods are hampered by *complex robot dynamics* and
 collision constraints that *couple robot’s decision variables*. We propose a distributed multi-robot optimization algorithm (DiMOpt) which addresses these issues by exploiting:
@@ -47,5 +33,18 @@ The source code is openly available at [repo](https://github.com/joaosalvado/DiM
 3. Collisions between robots are solved by imposing a **precedences between robots** while accounting for robot dynamic models. 
 
 Tools utilized: [repo](https://github.com/joaosalvado/coordination_oru), [OMPL](http://ompl.kavrakilab.org/), *Scania* GPS Maps and Buses.
+Webinar: Speaker at the iQPilot and iQMobility [webinar](https://sites.google.com/view/iqpilot-iqmobility/webinar-invitation) 
 
->>>>>>> d41c3f66385d49b207684ee30c24a7b6b4040499
+# Coordination of Multiple Forklifts [ILIAD Project]
+
+<img src="/images/m2iliad.gif" title="mapf demo" style="float:right;width:350pt;padding-left:10px;" />
+Multiple forklifts path planning in a *warehouseÄ environment. This video shows the milestone 2 demo with two forklifts simulating missions of picking and placing items in oposite rooms while sharing a common corridor with a max capacity of a single forklift.
+
+1. Pick-and-place missions are dispached to the fleet of forklifts
+2. Integrate task and motion planning with **paths** created via motion planner developed by project partner.
+3. Collisions between robots are solved by imposing a **precedences between robots** while accounting for robot dynamic models. 
+
+Tools utilized: [repo](https://github.com/joaosalvado/coordination_oru).
+Project [link](http://iliad-project.eu/wp-content/uploads/2017/04/ILIAD-ERF2017-poster.jpg)
+
+
