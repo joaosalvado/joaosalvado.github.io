@@ -38,7 +38,7 @@ Webinar: Speaker at the iQPilot and iQMobility [webinar](https://sites.google.co
 # Coordination of Multiple Forklifts [ILIAD Project]
 
 <img src="/images/m2iliad.gif" title="mapf demo" style="float:right;width:350pt;padding-left:10px;" />
-Multiple forklifts path planning in a *warehouseÄ environment. This video shows the milestone 2 demo with two forklifts simulating missions of picking and placing items in oposite rooms while sharing a common corridor with a max capacity of a single forklift.
+Multiple forklifts path planning in a *warehouse* environment. This video shows the milestone 2 demo with two forklifts simulating missions of picking and placing items in oposite rooms while sharing a common corridor with a max capacity of a single forklift.
 
 1. Pick-and-place missions are dispached to the fleet of forklifts
 2. Integrate task and motion planning with **paths** created via motion planner developed by project partner.
