@@ -1,13 +1,12 @@
 ---
 title: 'Docker container of CMake project with dependency on OpenCV'
 date: 2022-05-31
-permalink: /posts/2022/05/docker-cmake-opencv/
+permalink: /posts/docker-cmake-opencv
 tags:
   - CMake
   - Docker
   - OpenCV
 ---
-
 # Table of Contents
 
 1.  [Integrating Docker + CMake + OpenCV](#org9d6c309)
