@@ -7,11 +7,12 @@
 plugins:
   - jekyll-remote-theme
 remote_theme : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+header:
+  overlay_image: /images/aicar.png
 # Site Settings
 locale                   : "en-US"
-title                    : "João Salvado / Personal Page"
+title                    : "Personal Page"
 title_separator          : "-"
 name                     : &name "João Salvado"
 description              : &description "PhD Student at Örebro Universitet"
