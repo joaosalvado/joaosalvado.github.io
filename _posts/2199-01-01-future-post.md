@@ -52,4 +52,5 @@ We will be using the CMake project available at the [repo](https://github.com/jo
 I have already created an example repository where docker container is implemented for the CMake Project.
 However, you can create your own repo and follow the next steps.
 
+[This post is in progress]
 
