@@ -35,6 +35,19 @@ The source code is openly available at [repo](https://github.com/joaosalvado/DiM
 Tools utilized: [repo](https://github.com/joaosalvado/coordination_oru), [OMPL](http://ompl.kavrakilab.org/), *Scania* GPS Maps and Buses.
 Webinar: Speaker at the iQPilot and iQMobility [webinar](https://sites.google.com/view/iqpilot-iqmobility/webinar-invitation) 
 
+
+# Network Flow for Multi-robot Path Planning
+<img src="/images/map_contour.png" title="mapf demo" style="float:right;width:200pt;padding-left:10px;" />
+<img src="/images/graph.png" style="float:right;width:200pt;padding-left:10px;" />  
+<img src="/images/paths.png" style="float:right;width:200pt;padding-left:10px;" /> <img src="/images/network.png" style="float:right;width:190pt;padding-left:10px;" />   
+
+
+The problem of **multi-robot path finding and goal allocation** can be abstracted to a **Min-Cost Max-Flow** problem, which can be solved effeciently. [*Figure top left*] contours of the environment. [*Figure top right*] the respective connectivity graph of the computed tesselation and obstacles approximated by ellipses. [*Figure bottom left*] illustrative multi-robot path. [*Figure bottom right*] Time expanded dynamic network of the considered map.
+
+The output of this algorithm is a sequence of convex polygons that lead the robots from their initial to the final set of polygons.
+
+The source code is openly available at [repo](https://github.com/joaosalvado/mrflow)
+
 # Coordination of Multiple Forklifts [ILIAD Project]
 
 <img src="/images/m2iliad.gif" title="mapf demo" style="float:right;width:350pt;padding-left:10px;" />
